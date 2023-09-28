@@ -1,3 +1,9 @@
+You tube clone made using react and optimization techniques used like caching and debouncing for search API.
+
+
+
+![Screenshot (37)](https://github.com/rgiri1706/youtube-clone/assets/26921687/e0c43687-263e-427d-b0e2-34fc831b978f)
+![Screenshot (36)](https://github.com/rgiri1706/youtube-clone/assets/26921687/9581aa3c-add1-4492-bbc3-18867d58b603)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
